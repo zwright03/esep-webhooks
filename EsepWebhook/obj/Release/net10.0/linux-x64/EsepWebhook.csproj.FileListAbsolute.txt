@@ -15,3 +15,5 @@ C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebho
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.pdb
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.sourcelink.json

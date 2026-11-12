@@ -3,4 +3,5 @@ C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebho
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\publish\EsepWebhook.pdb
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\publish\Amazon.Lambda.Core.dll
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\publish\Newtonsoft.Json.dll
 C:\Users\zachw\Desktop\ESEP\A8 event driven architecture\esep-webhooks\EsepWebhook\bin\Release\net10.0\publish\EsepWebhook.dll
